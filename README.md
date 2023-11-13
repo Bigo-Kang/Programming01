@@ -1,4 +1,4 @@
 # Programming01
 
-## recursive
+## recursion01
 - recursive method practice
